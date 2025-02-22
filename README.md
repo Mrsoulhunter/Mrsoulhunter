@@ -32,7 +32,7 @@
 ### 📫 How to Reach Me:
 - 📩 Email: **devaliyaajay5@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-devaliya-867075257/)
-- 📸 [Instagram](https://www.instagram.com/devaliyaajay)
+- 📸 [Instagram](https://www.instagram.com/devaliya_ajay_?igsh=MWYzem9rcDZ1bDFqNA==)
 
 ### 😄 Pronouns:
 **He/Him**
