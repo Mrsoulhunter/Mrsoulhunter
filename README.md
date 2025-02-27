@@ -25,9 +25,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrsoulhunter&show_icons=true&theme=radical" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrsoulhunter&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrsoulhunter&show_icons=true&theme=radical&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsoulhunter&layout=compact&theme=radical" height="170px"/>
 </p>
+
+
+
+
 
 ### 📫 How to Reach Me:
 - 📩 Email: **devaliyaajay5@gmail.com**
