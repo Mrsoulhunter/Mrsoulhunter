@@ -42,13 +42,19 @@
 **He/Him**
 
 ### ⚡ Fun Fact:
-🔓 **"I find hacking and music therapeutic—it helps me focus and stay in the zone!"**
-💀 **"When I'm not hunting vulnerabilities, I'm cracking hashes for fun!"**
-🎯 **"CTFs, OSINT, and digital forensics—my idea of a perfect weekend!"**
-🕵️‍♂️ **"I believe every system has a story to tell—it's just a matter of finding the right digital traces."**
-🔥 **"Give me a hash, and I’ll crack it—challenge accepted!"**
-💻 **"I don’t just hack for fun, I hack to learn!"**
-🎶 **"Music and hacking fuel my focus—one keeps me calm, the other keeps me sharp!"**
+🔓 **I find hacking and music therapeutic—it helps me focus and stay in the zone!**
+
+💀 **When I'm not hunting vulnerabilities, I'm cracking hashes for fun!**
+
+🎯 **CTFs, OSINT, and digital forensics—my idea of a perfect weekend!**
+
+🕵️‍♂️ **I believe every system has a story to tell—it's just a matter of finding the right digital traces.**
+
+🔥 **Give me a hash, and I’ll crack it—challenge accepted!**
+
+💻 **I don’t just hack for fun, I hack to learn!**
+
+🎶 **Music and hacking fuel my focus—one keeps me calm, the other keeps me sharp!**
 
 ---
 
